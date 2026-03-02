@@ -1,0 +1,30 @@
+[
+  {
+    "id": "inventory-lifo",
+    "title": "Inventory Costing",
+    "gaap": "LIFO permitted",
+    "ifrs": "LIFO prohibited",
+    "url": "/gaap-vs-ifrs#inventory"
+  },
+  {
+    "id": "dev-costs",
+    "title": "Development Costs",
+    "gaap": "Expensed as incurred",
+    "ifrs": "Capitalized if criteria met",
+    "url": "/gaap-vs-ifrs#dev-costs"
+  },
+  {
+    "id": "revaluation",
+    "title": "Asset Revaluation",
+    "gaap": "Prohibited (historical cost only)",
+    "ifrs": "Permitted (fair value)",
+    "url": "/gaap-vs-ifrs#revaluation"
+  },
+  {
+    "id": "inventory-write",
+    "title": "Inventory Write-Downs",
+    "gaap": "Can't reverse",
+    "ifrs": "Can reverse if conditions improve",
+    "url": "/gaap-vs-ifrs#inventory-write"
+  }
+]

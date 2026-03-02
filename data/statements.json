@@ -1,0 +1,23 @@
+[
+  {
+    "id": "income-statement",
+    "title": "Income Statement",
+    "category": "Financial Statements",
+    "content": "Revenue\n- Cost of Goods Sold\n= Gross Profit\n- Operating Expenses\n= Operating Income\n+/- Other Income/Expenses\n= Income Before Tax\n- Income Tax Expense\n= Net Income",
+    "url": "/financial-statements#income-statement"
+  },
+  {
+    "id": "balance-sheet",
+    "title": "Balance Sheet",
+    "category": "Financial Statements",
+    "content": "ASSETS\n  Current Assets\n  Non-Current Assets\nLIABILITIES\n  Current Liabilities\n  Long-Term Liabilities\nEQUITY\n  Share Capital\n  Retained Earnings",
+    "url": "/financial-statements#balance-sheet"
+  },
+  {
+    "id": "cash-flow",
+    "title": "Statement of Cash Flows",
+    "category": "Financial Statements",
+    "content": "Operating Activities\n+ Investing Activities\n+ Financing Activities\n= Net Change in Cash\n+ Beginning Cash\n= Ending Cash",
+    "url": "/financial-statements#cash-flow"
+  }
+]

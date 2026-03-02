@@ -4,41 +4,41 @@
     "title": "Revenue Recognition (ASC 606)",
     "category": "Revenue",
     "content": "Five-step model:\n1. Identify contract with customer\n2. Identify performance obligations\n3. Determine transaction price\n4. Allocate transaction price\n5. Recognize revenue when (or as) obligations satisfied",
-    "url": "/gaap#asc606"
+    "url": "/accref/gaap#asc606"
   },
   {
     "id": "asc842",
     "title": "Lease Accounting (ASC 842)",
     "category": "Leases",
     "content": "Lessees recognize:\n- Right-of-use asset\n- Lease liability\nClassification: Finance vs Operating leases",
-    "url": "/gaap#asc842"
+    "url": "/accref/gaap#asc842"
   },
   {
     "id": "asc330",
     "title": "Inventory (ASC 330)",
     "category": "Inventory",
     "content": "Inventory measured at lower of cost or net realizable value.\nCost flow assumptions: FIFO, LIFO, Weighted Average",
-    "url": "/gaap#asc330"
+    "url": "/accref/gaap#asc330"
   },
   {
     "id": "asc360",
     "title": "Property, Plant & Equipment (ASC 360)",
     "category": "Fixed Assets",
     "content": "Historical cost principle. Depreciation systematically allocates cost.\nImpairment testing required when indicators exist.",
-    "url": "/gaap#asc360"
+    "url": "/accref/gaap#asc360"
   },
   {
     "id": "asc350",
     "title": "Intangibles (ASC 350)",
     "category": "Intangibles",
     "content": "Finite-life intangibles: Amortize over useful life\nIndefinite-life intangibles: No amortization, test for impairment",
-    "url": "/gaap#asc350"
+    "url": "/accref/gaap#asc350"
   },
   {
     "id": "asc310",
     "title": "Receivables (ASC 310)",
     "category": "Receivables",
     "content": "Allowance method required. Direct write-off not GAAP.\nCurrent expected credit losses (CECL) model.",
-    "url": "/gaap#asc310"
+    "url": "/accref/gaap#asc310"
   }
 ]

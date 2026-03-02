@@ -4,41 +4,41 @@
     "title": "Current Ratio",
     "category": "Liquidity",
     "content": "Formula: Current Assets / Current Liabilities\nInterpretation: Measures ability to pay short-term obligations\nBenchmark: > 1.5 is healthy, < 1 indicates potential liquidity issues",
-    "url": "/ratios#current-ratio"
+    "url": "/accref/ratios#current-ratio"
   },
   {
     "id": "quick-ratio",
     "title": "Quick Ratio (Acid-Test)",
     "category": "Liquidity",
     "content": "Formula: (Current Assets - Inventory) / Current Liabilities\nInterpretation: More conservative than current ratio\nBenchmark: > 1.0 is good",
-    "url": "/ratios#quick-ratio"
+    "url": "/accref/ratios#quick-ratio"
   },
   {
     "id": "debt-to-equity",
     "title": "Debt-to-Equity Ratio",
     "category": "Solvency",
     "content": "Formula: Total Liabilities / Shareholders' Equity\nInterpretation: Measures financial leverage\nBenchmark: < 2.0 typically preferred, varies by industry",
-    "url": "/ratios#debt-to-equity"
+    "url": "/accref/ratios#debt-to-equity"
   },
   {
     "id": "gross-margin",
     "title": "Gross Profit Margin",
     "category": "Profitability",
     "content": "Formula: (Revenue - COGS) / Revenue\nInterpretation: Profitability after direct costs\nBenchmark: Varies significantly by industry",
-    "url": "/ratios#gross-margin"
+    "url": "/accref/ratios#gross-margin"
   },
   {
     "id": "roe",
     "title": "Return on Equity (ROE)",
     "category": "Profitability",
     "content": "Formula: Net Income / Average Shareholders' Equity\nInterpretation: Profit generated from shareholder investments\nBenchmark: > 15% generally strong",
-    "url": "/ratios#roe"
+    "url": "/accref/ratios#roe"
   },
   {
     "id": "inventory-turnover",
     "title": "Inventory Turnover",
     "category": "Efficiency",
     "content": "Formula: COGS / Average Inventory\nInterpretation: How quickly inventory sells\nBenchmark: Higher is better, varies by industry",
-    "url": "/ratios#inventory-turnover"
+    "url": "/accref/ratios#inventory-turnover"
   }
 ]

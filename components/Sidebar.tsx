@@ -34,7 +34,7 @@ export default function Sidebar() {
         <p className="text-xs text-gray-500 mb-4">U.S. GAAP Reference</p>
         <nav className="space-y-1">
           {navItems.map((item) => {
-            const isActive = pathname === item.href;
+            const isActive = pathname === item.href || pathname === `/accref${item.href}`;
             return (
               <Link
                 key={item.href}

@@ -6,7 +6,7 @@
     "content": "DR Cash $1,000\n   CR Service Revenue $1,000",
     "explanation": "Record revenue when cash is received",
     "gaap_note": "ASC 606: Revenue recognized when performance obligation satisfied",
-    "url": "/journal-entries#rev-cash"
+    "url": "/accref/journal-entries#rev-cash"
   },
   {
     "id": "rev-credit",
@@ -15,7 +15,7 @@
     "content": "DR Accounts Receivable $1,000\n   CR Service Revenue $1,000",
     "explanation": "Record revenue when service performed but cash not yet received",
     "gaap_note": "Accrual accounting requires revenue recognition when earned",
-    "url": "/journal-entries#rev-credit"
+    "url": "/accref/journal-entries#rev-credit"
   },
   {
     "id": "depreciation-straight",
@@ -24,7 +24,7 @@
     "content": "DR Depreciation Expense $1,000\n   CR Accumulated Depreciation $1,000",
     "explanation": "Monthly depreciation on equipment ($120,000 cost, 10 year life)",
     "gaap_note": "ASC 360: Depreciation systematically allocates asset cost",
-    "url": "/journal-entries#depreciation-straight"
+    "url": "/accref/journal-entries#depreciation-straight"
   },
   {
     "id": "accrued-salary",
@@ -33,7 +33,7 @@
     "content": "DR Salaries Expense $5,000\n   CR Salaries Payable $5,000",
     "explanation": "Accrue salaries earned but not yet paid at month-end",
     "gaap_note": "Matching principle: record expense in period incurred",
-    "url": "/journal-entries#accrued-salary"
+    "url": "/accref/journal-entries#accrued-salary"
   },
   {
     "id": "prepaid-rent",
@@ -42,7 +42,7 @@
     "content": "DR Rent Expense $2,000\n   CR Prepaid Rent $2,000",
     "explanation": "Monthly adjustment for prepaid rent ($24,000 paid for 12 months)",
     "gaap_note": "Asset recognized until benefit received",
-    "url": "/journal-entries#prepaid-rent"
+    "url": "/accref/journal-entries#prepaid-rent"
   },
   {
     "id": "bad-debt",
@@ -51,7 +51,7 @@
     "content": "DR Bad Debt Expense $1,500\n   CR Allowance for Doubtful Accounts $1,500",
     "explanation": "Estimate uncollectible accounts (3% of $50,000 credit sales)",
     "gaap_note": "ASC 310: Allowance method required for GAAP",
-    "url": "/journal-entries#bad-debt"
+    "url": "/accref/journal-entries#bad-debt"
   },
   {
     "id": "inventory-purchase",
@@ -60,7 +60,7 @@
     "content": "DR Inventory $10,000\n   CR Accounts Payable $10,000",
     "explanation": "Purchase inventory on credit",
     "gaap_note": "ASC 330: Inventory recorded at cost",
-    "url": "/journal-entries#inventory-purchase"
+    "url": "/accref/journal-entries#inventory-purchase"
   },
   {
     "id": "cogs",
@@ -69,6 +69,6 @@
     "content": "DR Cost of Goods Sold $6,000\n   CR Inventory $6,000",
     "explanation": "Record COGS when inventory sold",
     "gaap_note": "Matching principle: expense matched to revenue",
-    "url": "/journal-entries#cogs"
+    "url": "/accref/journal-entries#cogs"
   }
 ]
